@@ -26,5 +26,5 @@ This project analyzes loan repayment data using SQL. The dataset contains key fi
 3. Copy and execute the SQL queries to generate insights.
 
 ## Next Steps
-Visualize results using Power BI or Tableau.
-Implement automated reporting for better monitoring.
+1. Visualize results using Power BI.
+2. Implement automated reporting for better monitoring.
