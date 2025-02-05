@@ -23,3 +23,8 @@ This project analyzes loan repayment data using SQL. The dataset contains key fi
 2. Set the active database to **PAYPALM** using:
    ```sql
    SET search_path TO PAYPALM;
+3. Copy and execute the SQL queries to generate insights.
+
+## Next Steps
+Visualize results using Power BI or Tableau.
+Implement automated reporting for better monitoring.
